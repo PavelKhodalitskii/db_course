@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-03-14T13:13:22.283Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gUMItcnAnwoKb1M8a6x4" version="24.0.5" type="device">
+  <diagram name="Страница — 1" id="e2_oIRhvJj3CcPLMBJXS">
+    <mxGraphModel dx="747" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-1" value="Видео" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" parent="1" source="L7mMCEatRwpHS-OR_A4o-7" target="L7mMCEatRwpHS-OR_A4o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" source="L7mMCEatRwpHS-OR_A4o-7" target="L7mMCEatRwpHS-OR_A4o-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-7" value="Пользователи" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERzeroToMany;endFill=0;" parent="1" source="L7mMCEatRwpHS-OR_A4o-8" target="L7mMCEatRwpHS-OR_A4o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-8" value="Плейлисты" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jnHoAtXQTLcpkAB6ov1F-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="L7mMCEatRwpHS-OR_A4o-9" target="L7mMCEatRwpHS-OR_A4o-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-9" value="Подписки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToMany;startFill=0;" parent="1" source="L7mMCEatRwpHS-OR_A4o-11" target="L7mMCEatRwpHS-OR_A4o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-11" value="Комментарии" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" parent="1" source="L7mMCEatRwpHS-OR_A4o-13" target="L7mMCEatRwpHS-OR_A4o-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7mMCEatRwpHS-OR_A4o-13" value="Категории" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
