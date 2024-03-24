@@ -1,6 +1,8 @@
-Концептуальная модель готова! (db_source_dia.txt Открывать в draw.io)
+Логическая модель готова! (db_source_dia.txt Открывать в draw.io)
 
 <h1>Концептуальная модель</h1>
-<img src='source/images/concept.png'>
+<img src='source/images/conceptual_model.png'>
 
-залей пожалуйста в читаемом формате ее, png или pdf например
+<h1>Логическая модель</h1>
+<img src='source/images/logical_model.jpg'>
+
