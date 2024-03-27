@@ -7,9 +7,9 @@
 <img src='source/images/logical_model.png'>
 
 <h1>Физическая модель</h1>
-<img src='source/images/phys_model_1.png'>
-<img src='source/images/phys_model_2.png'>
-<img src='source/images/phys_model_3.png'>
+<img src='source/images/phys_model_1.jpg'>
+<img src='source/images/phys_model_2.jpg'>
+<img src='source/images/phys_model_3.jpg'>
 
 
 
