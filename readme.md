@@ -4,5 +4,12 @@
 <img src='source/images/conceptual_model.jpg'>
 
 <h1>Логическая модель</h1>
-<img src='source/images/logical_model.jpg'>
+<img src='source/images/logical_model.png'>
+
+<h1>Физическая модель</h1>
+<img src='source/images/phys_model_1.png'>
+<img src='source/images/phys_model_2.png'>
+<img src='source/images/phys_model_3.png'>
+
+
 
