@@ -1,9 +1,0 @@
-DROP TABLE IF EXISTS RelationshipVideosCategories;
-DROP TABLE IF EXISTS Views;
-DROP TABLE IF EXISTS Subscriptions;
-DROP TABLE IF EXISTS RelationshipVideosPlaylists;
-DROP TABLE IF EXISTS Comments;
-DROP TABLE IF EXISTS Playlists;
-DROP TABLE IF EXISTS Users;
-DROP TABLE IF EXISTS Videos;
-DROP TABLE IF EXISTS Categories;
